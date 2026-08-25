@@ -68,6 +68,8 @@ const translations = {
     "project8.title": "Resume Builder",
     "project8.desc": "Resume Builder is a modern web application(built with React) for creating professional resumes with customizable templates, real-time editing, PDF export, autosave, and responsive design. It offers multiple resume layouts, font and color customization, drag-and-drop section management, and an intuitive interface for quickly building ATS-friendly resumes.",
 
+    "project9.title": "Greenova Bank",
+    "project9.desc": "A modern banking website design created in Figma. It features intuitive navigation, banking services, cards, transfers, and a responsive user interface.",
 
     "project.openBtn": "Open Project",
 
@@ -124,7 +126,10 @@ const translations = {
 
     "project8.title": "Resume-Builder",
     "project8.desc": "Resume Builder — это современное веб-приложение(создано с помощью React) для создания профессиональных резюме с настраиваемыми шаблонами, редактированием в реальном времени, экспортом в PDF, автосохранением и адаптивным интерфейсом. Приложение предлагает множество макетов резюме, настройку шрифтов и цветов, управление разделами с помощью drag-and-drop, а также интуитивно понятный интерфейс для быстрого создания резюме, оптимизированных для ATS-систем.",
-
+    
+    "project9.title": "Greenova Bank",
+    "project9.desc": "Современный веб-дизайн банковского сайта, созданный в Figma. Включает удобную навигацию, банковские услуги, карты, переводы и адаптивный интерфейс.",
+    
     "project.openBtn": "Открыть проект",
 
     "cv.title": "Резюме",
@@ -180,7 +185,10 @@ const translations = {
 
     "project8.title": "Resume Builder",
     "project8.desc": "Resume Builder — peşəkar CV-lərin hazırlanması üçün nəzərdə tutulmuş müasir veb tətbiqidir(React ilə qurulmuşdur). Tətbiq fərdiləşdirilə bilən şablonlar, real vaxtda redaktə, PDF ixracı, avtomatik yadda saxlama (Auto Save) və adaptiv interfeys təqdim edir. O, müxtəlif CV dizaynları, şrift və rəng fərdiləşdirməsi, bölmələrin drag-and-drop ilə idarə olunması və ATS sistemləri üçün optimallaşdırılmış CV-lərin tez və rahat hazırlanması üçün intuitiv interfeys təklif edir.",
-     
+
+    "project9.title": "Greenova Bank",
+    "project9.desc": "Figma proqramında hazırlanmış müasir bank veb-sayt dizaynı. Dizayn rahat naviqasiya, bank xidmətləri, kartlar, köçürmələr və adaptiv istifadəçi interfeysini əhatə edir.",
+    
     "project.openBtn": "Layihəni Aç",
 
     "cv.title": "CV",

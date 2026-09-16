@@ -39,7 +39,7 @@ const translations = {
 
     "skills.title": "Skills",
     "skills.troubleshooting": "System Troubleshooting",
-    "skills.hwsw": "Hardware & Software Installation",
+    "skills.hwsw": "Hardware & Software Installation / Configuration",
     "skills.hwsw1": "Operating System Installation & Configuration",
 
     "projects.title": "Projects",
@@ -96,7 +96,7 @@ const translations = {
     "about.title": "Обо мне",
     "about.text": "Я специалист по IT-поддержке с практическим опытом в трабл-шутинге, установке и настройке оборудования и программного обеспечения, а также работе на Help Desk. Хорошо знаю темы CompTIA A+ Core 1 и Core 2 — компьютерное оборудование, Windows, основы сетей и настройку сетевых свитчей. Когда что-то ломается, я стараюсь разобраться в реальной причине проблемы, а не просто устранять симптом, и всегда объясняю пользователю, что произошло и как я это исправил. Обычно я начинаю с того, чтобы определить, откуда идёт проблема — оборудование, ПО или соединение — прежде чем переходить к решению, и после этого проверяю, что всё работает корректно, а не просто что ошибка пропала. Я работал с тикетами, решал проблемы как с оборудованием, так и с ПО, а также настраивал компьютеры с нуля — устанавливал ОС, драйверы и программы, полностью подготавливая систему к работе. Также имею понимание групповых политик (Group Policy) и работы с доменами — умею настраивать базовые политики, разбираться в правах доступа и решать проблемы, связанные с подключением компьютеров к домену и их работой в доменной среде. Я ответственный и хорошо работаю в команде. Помимо опыта в IT-поддержке, я также занимаюсь фронтенд-разработкой — создаю сайты на HTML, CSS, JavaScript, React и Bootstrap. Хочу продолжать учиться и построить настоящую карьеру в IT.",
     "skills.troubleshooting": "Устранение неполадок",
-    "skills.hwsw": "Установка оборудования и ПО",
+    "skills.hwsw": "Установка и настройка оборудования и ПО",
     "skills.hwsw1": "Установка и настройка операционной системы",
 
     "projects.title": "Проекты",
@@ -155,7 +155,7 @@ const translations = {
 
     "skills.title": "Bacarıqlar",
     "skills.troubleshooting": "Nasazlıqların aradan qaldırılması",
-    "skills.hwsw": "Avadanlıq və Proqram Təminatının Quraşdırılması",
+    "skills.hwsw": "Avadanlıq və Proqram Təminatının Quraşdırılması və Konfiqurasiyası",
     "skills.hwsw1": "Əməliyyat Sisteminin Quraşdırılması və Konfiqurasiyası",
 
     "projects.title": "Layihələr",
